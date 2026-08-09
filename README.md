@@ -38,4 +38,4 @@ Ingeniero enfocado en Aseguramiento de Calidad de Software (QA) con más de 10 a
 ### 📫 Contacto & Redes
 
 - **LinkedIn:** [linkedin.com/in/emmanuel-araiza-engineer](https://www.linkedin.com/in/emmanuel-araiza-engineer)
-- **Ubicación:** Guadalajara, Jalisco, México (Disponible para remoto global)## Hi there 👋
+- **Ubicación:** Guadalajara, Jalisco, México (Disponible para remoto global)
