@@ -21,7 +21,7 @@ Ingeniero enfocado en Aseguramiento de Calidad de Software (QA) con más de 10 a
 - **Tech Stack:** Postman, REST API, SQL, JSON
 - Pruebas de integración y validación de comunicación cliente-servidor, códigos de estado HTTP y persistencia en base de datos.
 
-#### 🔹 [Pruebas de Regresión & Bug Reports — Urban Routes](https://github.com/tu-usuario/urban-routes-qa)
+#### 🔹 [Pruebas de Regresión & Bug Reports — Urban Routes](https://github.com/Emmanuelaraiza90/urban-routes-qa-manual)
 - **Tech Stack:** Test Cases, Checklists, Jira, DevTools
 - Ejecución de pruebas manuales y de regresión en plataforma web de movilidad, con documentación de errores clasificados por severidad.
 
