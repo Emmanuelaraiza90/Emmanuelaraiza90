@@ -28,7 +28,7 @@ Ingeniero enfocado en Aseguramiento de Calidad de Software (QA) con más de 10 a
 * **Tech Stack:** Cross-Browser Testing, Responsive Design, Decision Tables, Pairwise Testing
 * Validación de interfaz de usuario, usabilidad y comportamiento multiplataforma con técnicas avanzadas de cobertura.
 
-🔹 API & Integration Testing — Urban Grocers
+🔹 [API & Integration Testing — Urban Grocers](https://github.com/Emmanuelaraiza90/urban-grocers-api-testing)
 * **Tech Stack:** Postman, REST API, SQL, JSON
 * Pruebas de integración y validación de comunicación cliente-servidor, códigos de estado HTTP y persistencia en base de datos.
 
