@@ -14,25 +14,31 @@ Ingeniero enfocado en Aseguramiento de Calidad de Software (QA) con más de 10 a
 - **Tools & Methodology:** Jira, DevTools, Git, GitHub, VS Code, Scrum.
 
 ---
-
 ### 📁 Proyectos Destacados
 
-#### 🔹 [API & Integration Testing — Urban Grocers](https://github.com/tu-usuario/urban-grocers-qa)
-- **Tech Stack:** Postman, REST API, SQL, JSON
-- Pruebas de integración y validación de comunicación cliente-servidor, códigos de estado HTTP y persistencia en base de datos.
+🔹 [Pruebas de Regresión & Bug Reports — Urban Routes](https://github.com/Emmanuelaraiza90/urban-routes-qa-manual)
+* **Tech Stack:** Test Cases, Checklists, Jira, DevTools, Google Sheets
+* Ejecución de pruebas manuales y de regresión en plataforma web de movilidad, con documentación de 7 errores clasificados por severidad.
 
-#### 🔹 [Requirements Analysis & Test Design Techniques](https://github.com/Emmanuelaraiza90/requirements-analysis-test-design)
-- **Tech Stack:** Test Cases, Checklists, Jira, DevTools
-- Ejecución de pruebas manuales y de regresión en plataforma web de movilidad, con documentación de errores clasificados por severidad.
+🔹 [Requirements Analysis & Test Design Techniques](https://github.com/Emmanuelaraiza90/requirements-analysis-test-design)
+* **Tech Stack:** Equivalence Partitioning, BVA, Mind Maps, Test Cases
+* Aplicación de técnicas formales de diseño de pruebas para optimizar la cobertura funcional y eliminar redundancia en escenarios de prueba.
 
-#### 🔹 [Bot de Trading Algorítmico & Python Scripting](https://github.com/tu-usuario/trading-bot-python)
-- **Tech Stack:** Python, REST APIs, VS Code
-- Script de automatización para extracción de datos financieros en tiempo real, control de flujo y gestión de excepciones (`try/except`).
+🔹 [Web Application & UI/UX Testing](https://github.com/Emmanuelaraiza90/web-application-testing-qa)
+* **Tech Stack:** Cross-Browser Testing, Responsive Design, Decision Tables, Pairwise Testing
+* Validación de interfaz de usuario, usabilidad y comportamiento multiplataforma con técnicas avanzadas de cobertura.
 
-#### 🔹 [Web QA en Producción — Student Houses GDL](https://studenthousesguadalajara.com)
-- **Tech Stack:** DevTools, UX/UI Testing, Form Validation
-- Pruebas funcionales, responsividad móvil y flujo de conversión para portal inmobiliario en vivo.
+🔹 API & Integration Testing — Urban Grocers
+* **Tech Stack:** Postman, REST API, SQL, JSON
+* Pruebas de integración y validación de comunicación cliente-servidor, códigos de estado HTTP y persistencia en base de datos.
 
+🔹 Sales Automation & WhatsApp Bot — Jalisco Magico Mx
+* **Tech Stack:** WhatsApp Business API, Meta Business Suite, Python, Conversational Workflows
+* Desarrollo e implementación de bot conversacional automatizado para atención, consulta de disponibilidad y cierre de ventas en tiempo real ([jaliscomagico.com.mx](https://jaliscomagico.com.mx/)).
+
+🔹 Bot de Trading Algorítmico & Scripting en Python
+* **Tech Stack:** Python, REST APIs, VS Code
+* Script de automatización para extracción de datos financieros en tiempo real, control de flujo y gestión de excepciones (`try/except`).
 ---
 
 ### 📫 Contacto & Redes
