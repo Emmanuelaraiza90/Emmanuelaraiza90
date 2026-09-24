@@ -15,6 +15,9 @@ Ingeniero enfocado en Aseguramiento de Calidad de Software (QA) con más de 10 a
 
 ---
 ### 📁 Proyectos Destacados
+🔹 [Chicago Taxi DB Analysis & Server Logs](https://github.com/Emmanuelaraiza90/chicago-taxi-db-sql)
+* **Tech Stack:** PostgreSQL, SQL, Bash (CLI).
+* Filtrado de logs de servidor (errores 400/500) vía terminal y ejecución de consultas SQL complejas (INNER JOIN, HAVING, CASE) para analizar la persistencia de datos de viajes en taxi en Chicago y su correlación con el clima.
 
 🔹 [Mobile QA & Defect Tracking — Urban.Lunch](https://github.com/Emmanuelaraiza90/urban-lunch-mobile-qa)
 * **Tech Stack:** Android Studio (AVD), ADB Logs, Jira, Google Sheets
